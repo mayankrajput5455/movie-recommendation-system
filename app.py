@@ -156,7 +156,7 @@ if query:
                 if poster and poster != "N/A":
                     st.image(
                         poster,
-                        use_container_width=True
+                        width=250
                     )
 
             with info_col:
