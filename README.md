@@ -64,7 +64,7 @@ movie-recommendation-system/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/movie-recommendation-system.git
+git clone https://github.com/mayankrajput5455/movie-recommendation-system.git
 cd movie-recommendation-system
 ```
 
